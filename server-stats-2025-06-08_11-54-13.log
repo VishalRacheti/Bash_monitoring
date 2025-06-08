@@ -1,0 +1,63 @@
+
+[1;36m[1mServer Stats Run: 2025-06-08 11:54:13[0m
+================================================================================
+
+[1;36m[1mOS Info[0m
+================================================================================
+[0;32mUbuntu 22.04.5 LTS (Jammy Jellyfish)[0m
+
+[1;36m[1mCPU Uptime[0m
+================================================================================
+16 hours
+39 minutes
+49.06 seconds
+
+[1;36m[1m🖥️  CPU Usage[0m
+================================================================================
+Usage         : [0;32m1.6%[0m
+
+[1;36m[1m🧠 Memory Usage[0m
+================================================================================
+Total Memory    : [1;33m7744.2     MB[0m
+Used Memory     : [1;33m2504.1     MB[0m (32.3%)
+Free/Available  : [1;33m5240.1     MB[0m (67.7%)
+
+[1;36m[1m💾 Disk Usage[0m
+================================================================================
+Disk Size       : [1;33m1007G     [0m
+Used Space      : [1;33m8.9G      [0m (.87)
+Available Space : [1;33m947G      [0m (94.03)
+
+[1;36m[1m🔥 Top 5 Processes by CPU[0m
+================================================================================
+USER       PID    %CPU  %MEM  COMMAND
+root       2105   19.3  7.3   /root/.vscode-server/bin/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/node
+root       957    13.8  7.7   /root/.vscode-server/bin/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/node
+root       163    5.1   1.5   /root/.vscode-server/bin/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/node
+root       3021   2.0   0.0   bash
+root       1192   1.1   0.7   /root/.vscode-server/bin/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/node
+
+[1;36m[1m🧠 Top 5 Processes by Memory[0m
+================================================================================
+USER       PID    %CPU  %MEM  COMMAND
+root       957    13.8  7.7   /root/.vscode-server/bin/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/node
+root       2105   19.3  7.3   /root/.vscode-server/bin/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/node
+root       163    5.1   1.5   /root/.vscode-server/bin/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/node
+root       1000   0.8   0.9   /root/.vscode-server/bin/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/node
+root       1192   1.1   0.7   /root/.vscode-server/bin/258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3/node
+
+[1;36m[1mUsers currently Logged In[0m
+================================================================================
+
+[1;36m[1mMore info on Logged In Users[0m
+================================================================================
+USER     TTY          LOGIN-TIME        FROM
+
+[1;36m[1m🔐 Failed Login Attempts[0m
+================================================================================
+
+[1;36m[1mTop IPs causing failed logins:[0m
+================================================================================
+
+[1;36m[1mLogs of Failed Log In Attempts[0m
+================================================================================
